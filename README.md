@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @godlyphenomenon
+- 👋 Hi, I’m @seenrunning
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning python, programming language
+- 🌱 I’m currently learning python
 - 📫 Email - dnsteinwall@outlook.com
 
 <!---
